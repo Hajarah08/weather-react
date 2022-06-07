@@ -10,7 +10,7 @@ export default function App() {
       <footer>
         This project was created by Hajarah{" "}
         <a
-          href=""
+          href="https://github.com/Hajarah08/weather-react"
           target="_blank"
           rel="noopener noreferrer"
         >
